@@ -1,0 +1,4 @@
+gtts
+openai
+pydub
+ffmpeg
