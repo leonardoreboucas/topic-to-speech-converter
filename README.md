@@ -5,6 +5,8 @@ Topics to Speech Converter
 apt-get install ffmpeg libavcodec-extra
 pip install -r requirements.txt
 
+export OPENAI_API_KEY={KEY obtained from OpenAI}
+
 ### How to run
 - Update topics.txt
 - Execute: `python3 converter.py`
