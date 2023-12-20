@@ -1,2 +1,78 @@
-Padrões de projeto
-
+Compreensão e interpretação de textos de gêneros variados.
+Reconhecimento de tipos e gêneros textuais.
+Domínio da ortografia oficial.
+Domínio dos mecanismos de coesão textual.
+Emprego de elementos de referenciação, substituição e repetição, de conectores e de outros elementos de sequenciação textual.
+Emprego de tempos e modos verbais.
+Domínio da estrutura morfossintática do período.
+Emprego das classes de palavras.
+Relações de coordenação entre orações e entre termos da oração.
+Relações de subordinação entre orações e entre termos da oração.
+Emprego dos sinais de pontuação.
+Concordância verbal e nominal.
+Regência verbal e nominal.
+Emprego do sinal indicativo de crase.
+Colocação dos pronomes átonos.
+Reescrita de frases e parágrafos do texto.
+Significação das palavras.
+Substituição de palavras ou de trechos de texto.
+Reorganização da estrutura de orações e de períodos do texto.
+Reescrita de textos de diferentes gêneros e níveis em linguagem formal.
+Redação de correspondência oficial (conforme Manual de Redação da Presidência da República).
+Compreensão de textos em Língua Inglesa.
+Itens gramaticais relevantes para a compreensão dos conteúdos semânticos.
+ÉTICA NO SERVIÇO PÚBLICO:
+Papel do Estado.
+Lei nº 1.171/1994.
+Decreto nº 6.029/2007.
+Código de Ética, Conduta e Integridade da Finep (disponível em http://www.finep.gov.br/a-finep-externo/codigo-de-etica-e-de-conduta-da-finep).
+O assédio sexual, conceito, fundamentos legais e sanções.
+O assédio moral, conceito, fundamentos legais e sanções.
+Compreensão de estruturas lógicas.
+Lógica de argumentação: analogias, inferências, deduções e conclusões.
+Diagramas lógicos.
+Princípios de contagem.
+Noções de probabilidade e estatística.
+Lei do Bem (11.196/2005); Lei de Inovação (10.973/2004); Lei do FNDCT (11.540/2007).
+Manual de Oslo; PINTEC.
+Objetivos de Desenvolvimento Sustentável (ODS) da Organização das Nações Unidas (ONU).
+Critérios ESG.
+Análise e projeto de sistemas; análise e projeto orientado a objetos.
+UML (Unified Modeling Language): conceitos gerais, diagrama de casos de uso, diagrama de classes, diagrama de estados, diagrama de colaboração/comunicação, diagrama de sequência, diagrama de atividades, diagrama de componentes.
+Princípios de Engenharia de Software.
+Processos de Software.
+Engenharia de Requisitos – Especificação de Casos de Uso.
+Modelos de ciclo de vida.
+Processo de desenvolvimento de software unificado – Unified Process.
+Qualidade de Software.
+Banco de Dados: Conceitos.
+Modelo relacional de dados.
+Formas normais.
+Transação.
+Modelo de dados: entidades, atributos, relacionamentos-cardinalidade, generalização e especialização de entidades.
+Mapeamento para o modelo relacional.
+Linguagem SQL.
+Tipos de dados.
+Criação de tabelas.
+Manipulação de dados (insert, select, update).
+Junções - produto cartesiano, interna, externa (esquerda, direita, ambos).
+Operações em tabelas.
+Sistema gerenciador de banco de dados Oracle.
+Programação: Conceitos de lógica e algoritmos.
+Programação de aplicações na arquitetura cliente-servidor.
+Acoplamento e coesão.
+Programação orientada a objetos.
+Padrões de projeto (Design Patterns).
+Refatoração (Refactoring).
+Java.
+JSP.
+ASP.
+PHP.
+Portais corporativos.
+Conceitos de segurança: autenticação, autorização e auditoria.
+Linguagens de marcação: HTML, XML.
+Javascript.
+Gerenciamento de Projetos: Conceitos, planejamento, acompanhamento e controle.
+Planejamento e fiscalização de contratos.
+Lei nº 13.303/2016.
+Processos de ciclo de vida de software.
